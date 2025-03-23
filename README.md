@@ -30,4 +30,4 @@ It is possible to glitch through walls by holding forward and moving faster than
 There is no leader board option.
 
 ## How to play:
-To play, download this folder and run the pac man try.py file (Preferably with IFLE)
+To play, download this folder and run the pac man try.py file (Preferably with IDLE)
