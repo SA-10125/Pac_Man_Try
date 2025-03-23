@@ -28,3 +28,6 @@ Hence increasing the difficulty of the game.
 It is possible to glitch through walls by holding forward and moving faster than the tick speed. This is less of an issue with faster computers running the game.
 
 There is no leader board option.
+
+## How to play:
+To play, download this folder and run the pac man try.py file (Preferably with IFLE)
