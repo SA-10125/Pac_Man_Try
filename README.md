@@ -2,11 +2,11 @@
  
 ## Project done in 11th for fun.
 
-##Overview:
+## Overview:
 
 An endless arcade game made for chasing high scores. Uses Tkinter and Turtle to give a cute and fun retro arcade game like interface with blinking hearts as you lose and score counters. Fun, engaging game play with each level getting increasingly harder with no limits thanks to procedural level generation. 
 
-##Game:
+## Game:
 
 Player can use arrow keys or WAS keys to move forward and turn left/right. The game starts off with 4 "ghosts" to avoid. 1 life out of 3 total is lost each time player is in contact with a ghost. There are also procedurally generated walls the player must traverse through.
 The player must collect apples that appear at random places in the screen lasting a few seconds each time. There is also a blue and a red pellet that allows the player to go through a wall and destroy a "ghost" respectively.
